@@ -1,0 +1,56 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-googlemaps-plus": {
+      "API_KEY_FOR_IOS": "AIzaSyAKFavxKVr3RimkwXKeMpqc1g4oHsi3B4k",
+      "NSLOCATIONWHENINUSEUSAGEDESCRIPTION": "Show your location on the map",
+      "NSLOCATIONALWAYSUSAGEDESCRIPTION": "Trace your location on the map",
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-media": {
+      "KEEP_AVAUDIOSESSION_ALWAYS_ACTIVE": "NO",
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    },
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.foodsquire.merchantapp"
+    }
+  }
+}

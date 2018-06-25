@@ -1,0 +1,45 @@
+{
+  "name": "com.dev.informatics.foodsquiremerchant",
+  "version": "3.1",
+  "displayName": "FoodSquireMerchant",
+  "cordova": {
+    "platforms": [
+      "browser",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "phonegap-plugin-push": {
+        "SENDER_ID": "491618252405"
+      },
+      "cordova-plugin-device": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-googlemaps-plus": {
+        "API_KEY_FOR_ANDROID": "AIzaSyDAwrq1ial39lAGZx6jx0WZdZ-Qg4Z94cs",
+        "API_KEY_FOR_IOS": "AIzaSyAKFavxKVr3RimkwXKeMpqc1g4oHsi3B4k"
+      },
+      "cordova-plugin-media": {},
+      "cordova-plugin-x-toast": {},
+      "cordova-plugin-buildinfo": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "~5.0.3",
+    "cordova-ios": "^4.5.4",
+    "cordova-plugin-buildinfo": "^2.0.1",
+    "cordova-plugin-device": "~2.0.1",
+    "cordova-plugin-geolocation": "~4.0.1",
+    "cordova-plugin-googlemaps-plus": "~1.4.0",
+    "cordova-plugin-googlemaps-sdk": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk.git",
+    "cordova-plugin-inappbrowser": "~2.0.2",
+    "cordova-plugin-media": "~5.0.2",
+    "cordova-plugin-network-information": "~2.0.1",
+    "cordova-plugin-splashscreen": "~5.0.2",
+    "cordova-plugin-whitelist": "~1.3.3",
+    "cordova-plugin-x-toast": "~2.6.0",
+    "phonegap-plugin-push": "~2.2.2"
+  }
+}

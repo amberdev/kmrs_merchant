@@ -1,0 +1,1 @@
+{"background_color":"#FFF","display":"standalone","name":"FoodSquireMerchant","short_name":"FoodSquireMerchant","version":"com.foodsquire.merchantapp","description":"FoodSquire Merchant APP","author":"Dev Informatics Team","icons":[{"src":"icon.png","type":"image/png","sizes":"undefinedxundefined"}],"start_url":"index.html","gcm_sender_id":"996231231186"}
